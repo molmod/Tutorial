@@ -14,10 +14,13 @@ Installing and opening Jupyter Notebook using Anaconda on Windows
    download page. If you already have a version of Python on your computer, untick the box
    stating “Register Anaconda as my default Python x.x”.
 
-3. Congratulations, you have installed Anaconda and, with it, Jupyter Notebook. To start
-   the program, navigate to the folder containing the provided notebooks, open a terminal
+3. Congratulations, you have installed Anaconda and, with it, Jupyter Notebook. Now download 
+   the notebooks from [this link](http://github.com/molmod/Tutorial/archive/master.zip), and
+   unzip the notebooks to an arbitrary folder.
+
+4. To start jupyter notebook, navigate to the folder in which you unzipped the notebooks, open a terminal
    window, and simply type `jupyter notebook`. Alternatively, you can also open the program
-   Anaconda Navigator, select jupyter notebook, and navigate to the folder to the location
+   Anaconda Navigator, select jupyter notebook, and navigate to the folder
    where the notebooks are stored. Click on the first notebook to get started.
 
 
@@ -37,7 +40,12 @@ Installing and opening Jupyter Notebook using Anaconda on Linux
    instructions that appear on screen. When asked to updated `.bashrc`, type `yes`. When
    you're done, open a new terminal window for the new settings to take effect.
 
-3. Congratulations, you have installed Anaconda and, with it, Jupyter Notebook. Now run `jupyter notebook`. A browser window should open. Click on the first notebook to get started.
+3. Congratulations, you have installed Anaconda and, with it, Jupyter Notebook. Now download 
+   the notebooks from [this link](http://github.com/molmod/Tutorial/archive/master.zip), and
+   unzip the notebooks to an arbitrary folder.
+
+4. Run `jupyter notebook`, which should open a browser window. Navigate to the folder
+   where the notebooks are stored. Click on the first notebook to get started.
 
 
 Installing and opening Jupyter Notebook using Anaconda on macOS
@@ -54,14 +62,11 @@ Installing and opening Jupyter Notebook using Anaconda on macOS
    download page. If you already have a version of Python on your computer, untick the box
    stating “Register Anaconda as my default Python x.x”.
 
-3. Congratulations, you have installed Anaconda and, with it, Jupyter Notebook. To start
-   the program, navigate to the folder containing the provided notebooks, open a terminal
+3. Congratulations, you have installed Anaconda and, with it, Jupyter Notebook. Now download 
+   the notebooks from [this link](http://github.com/molmod/Tutorial/archive/master.zip), and
+   unzip the notebooks to an arbitrary folder.
+
+4. To start jupyter notebook, navigate to the folder in which you unzipped the notebooks, open a terminal
    window, and simply type `jupyter notebook`. Alternatively, you can also open the program
-   Anaconda Navigator, select jupyter notebook, and navigate to the folder to the location
+   Anaconda Navigator, select jupyter notebook, and navigate to the folder
    where the notebooks are stored. Click on the first notebook to get started.
-
-
-TODO
-====
-
-- Add link to download notebooks to point 3. Once this repository (or part of it) is public, github provides a download URL.
