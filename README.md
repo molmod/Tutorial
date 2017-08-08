@@ -1,4 +1,4 @@
-IPython notebooks for master thesis student to get their master thesis started
+IPython notebooks for master thesis students to get their master thesis started
 
 Installing and opening Jupyter Notebook using Anaconda on Windows
 =================================================================
