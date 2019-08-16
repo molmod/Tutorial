@@ -1,5 +1,14 @@
 IPython notebooks for master thesis students to get their master thesis started
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jan-janssen/Tutorial/master)
+
+
+Running the Jupyter Notebooks online using mybinder
+===================================================
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/molmod/Tutorial)
+
+Please click on the badge above to start an online version of the notebooks without installation requirements.
+
+
 
 Installing and opening Jupyter Notebook using Anaconda on Windows
 =================================================================
