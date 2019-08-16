@@ -1,4 +1,5 @@
 IPython notebooks for master thesis students to get their master thesis started
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jan-janssen/Tutorial/master)
 
 Installing and opening Jupyter Notebook using Anaconda on Windows
 =================================================================
