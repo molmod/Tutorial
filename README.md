@@ -4,7 +4,7 @@ IPython notebooks for master thesis students to get their master thesis started
 Running the Jupyter Notebooks online using mybinder
 ===================================================
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/molmod/Tutorial)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/molmod/Tutorial/master/)
 
 Please click on the badge above to start an online version of the notebooks without installation requirements.
 
