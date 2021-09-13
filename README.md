@@ -13,7 +13,7 @@ Please click on the badge above to start an online version of the notebooks with
 Installing and opening Jupyter Notebook using Anaconda on Windows
 =================================================================
 
-1. Download Anaconda for Windows from https://www.continuum.io/downloads. This may take a
+1. Download Anaconda for Windows from https://www.anaconda.com/products/individual-d. This may take a
    few minutes. Pay attention to the following:
 
    - Python version: select the latest Python version (>= 3.6).
@@ -37,7 +37,7 @@ Installing and opening Jupyter Notebook using Anaconda on Windows
 Installing and opening Jupyter Notebook using Anaconda on Linux
 ===============================================================
 
-1. Download Anaconda for Linux from https://www.continuum.io/downloads. This may take a
+1. Download Anaconda for Linux from https://www.anaconda.com/products/individual-d. This may take a
    few minutes. Pay attention to the following:
 
     - Python version: select the latest Python version (>= 3.6).
@@ -61,7 +61,7 @@ Installing and opening Jupyter Notebook using Anaconda on Linux
 Installing and opening Jupyter Notebook using Anaconda on macOS
 ===============================================================
 
-1. Download Anaconda for macOS from https://www.continuum.io/downloads. This may take a
+1. Download Anaconda for macOS from https://www.anaconda.com/products/individual-d. This may take a
    few minutes. Pay attention to the following:
 
     - Python version: select the latest Python version (>= 3.6)
